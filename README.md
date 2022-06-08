@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Ayushi Gaur</h1>
+<h1 align="center">Hi, I'm Ayushi Gaur</h1>
 <h3 align="center">A passionate developer from Rishikesh, Uttarakhand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurayushi&label=Profile%20views&color=0e75b6&style=flat" alt="gaurayushi" /> </p>
